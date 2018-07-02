@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.c {
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+    float: right;
+}
+
+
+
+.f{
+overflow: hidden;
+}

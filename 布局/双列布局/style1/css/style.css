@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.f{
+    display: flex;
+}
+
+.c1{
+
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+}
+.c2{
+
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+}

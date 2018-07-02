@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;;
+    line-height: 0;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+.c1{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+}
+.c2{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+}

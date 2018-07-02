@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+
+
+}
+
+.b {
+
+    background: #00A6BB;
+}
+
+
+
+.box7{
+    text-align:center;
+    font-size:0;
+}
+.box7 span{
+    vertical-align:middle;
+    display:inline-block;
+    font-size:16px;
+}
+.box7:after{
+    content:'';
+    width:0;
+    height:100%;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.box8{
+    display: flex;
+    text-align: center;
+}
+.box8 span{margin: auto;}

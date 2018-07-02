@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.f{
+    margin-top: 20px;
+    height: 200px;
+
+}
+.c{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.f{
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+    /*transform: translate(5px,10px);*/
+    transform: translate3d(5px,10px,20px);
+}
+
+.f2{
+    transform-origin:20% 40%;
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+    transform: rotate(30deg);
+}
+.f3{
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+    transform: scale(3);
+}
